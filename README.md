@@ -40,7 +40,7 @@
 
 <h3>
   <a href="https://github.com/Bilal-1309">
-    <img alt="Я" src="https://img.shields.io/badge/-Bilal-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Я" src="https://img.shields.io/badge/-Я-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
