@@ -22,10 +22,10 @@
 
 ## Мои задачи: 
 
-- [x] Создание react приложения
-- [x] Создание и контроль веток git
-- [x] Создание бекенда
-- [x] Создание функционала смены аватарки
+- -[x] Создание и контроль ветки git
+- -[x] Создание страницы профиля автосервиса
+- -[x] Cоздание reducer-ов и Thunk-ов для авторизации и автосервиса
+- -[x] Добавление возможности добавление и удаления предоставляемых услуг(добавление или удаление возможно только после входа с аккаунта автосервиса)
 
 
 ## Для решения поставленных задач, использовал:
@@ -40,7 +40,7 @@
 
 <h3>
   <a href="https://github.com/Bilal-1309">
-    <img alt="Bilal" src="https://img.shields.io/badge/-Bilal-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Я" src="https://img.shields.io/badge/-Bilal-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
